@@ -1,0 +1,39 @@
+﻿{
+    "buttons":  [
+                    {
+                        "command":  "explorer.exe",
+                        "name":  "Explorer oeffnen",
+                        "cmdWindow":  false
+                    },
+                    {
+                        "command":  "ipconfig /all",
+                        "name":  "IP-Adresse anzeigen",
+                        "cmdWindow":  true
+                    },
+                    {
+                        "command":  "ping google.com",
+                        "name":  "Google anpingen",
+                        "cmdWindow":  true
+                    },
+                    {
+                        "command":  "calc.exe",
+                        "name":  "Taschenrechner",
+                        "cmdWindow":  false
+                    },
+                    {
+                        "command":  "taskmgr.exe",
+                        "name":  "Task-Manager",
+                        "cmdWindow":  false
+                    },
+                    {
+                        "command":  "mspaint.exe",
+                        "name":  "Paint oeffnen",
+                        "cmdWindow":  false
+                    },
+                    {
+                        "command":  "cmd.exe",
+                        "name":  "CMD",
+                        "cmdWindow":  true
+                    }
+                ]
+}
